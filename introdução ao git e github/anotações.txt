@@ -1,0 +1,5 @@
+git init ;; inicia repositório
+git add arg ;; track arquivos
+git commit -m "mensagem" ;; comita as alterações do repositório local
+git push ;; manda as alterações do repositório local pro remoto
+git pull ;; fetch e merge alterações do repositório remoto pro locals
